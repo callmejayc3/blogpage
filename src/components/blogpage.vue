@@ -1,3 +1,4 @@
+
 <template>
     <div class="main-content">
 
@@ -6,7 +7,7 @@
         <div class="card user-profile o-hidden mb-30">
             <div class="header-cover" style="background-image: url(http://gull-html-laravel.ui-lib.com/assets/images/photo-wide-5.jpeg)"></div>
             <div class="user-info">
-<!--                <img class="profile-picture avatar-lg mb-2" src="http://gull-html-laravel.ui-lib.com/assets/images/faces/1.jpg" alt="">-->
+                <img class="profile-picture avatar-lg mb-2" src="http://gull-html-laravel.ui-lib.com/assets/images/faces/1.jpg" alt="">
                 <p class="m-0 text-24">Timothy Carlson</p>
                 <p class="text-muted m-0">Digital Marketer</p>
             </div>
